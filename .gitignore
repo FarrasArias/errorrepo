@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore the libtorch directory
+/libraries/libtorch
+/libraries/libtorch_cpu
+/libraries/pybind11
+/python_lib/
+/python_scripts/
+# Ignore cmakefiles
+/CMakeFiles/
+
+# Ignore local datasets
+
+
+# Ignore the model.pt file
+/el_yellow_ts.pt
+/python_lib/model.pt
+
+#ignore visual studio metadata
+.vs/
+
+#ignore build directory
+/out/
+
+#ignore random files
+2539bytes.txt
+CMakeLists_CPP.txt

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmm_torch.a CMakeFiles/mmm_torch.dir/src/torch_library.cpp.o
+/usr/bin/ranlib libmmm_torch.a

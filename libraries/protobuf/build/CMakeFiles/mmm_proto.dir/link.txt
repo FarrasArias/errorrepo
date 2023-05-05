@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmmm_proto.a CMakeFiles/mmm_proto.dir/src/proto_library.cpp.o CMakeFiles/mmm_proto.dir/enum.pb.cc.o CMakeFiles/mmm_proto.dir/midi.pb.cc.o CMakeFiles/mmm_proto.dir/midi_internal.pb.cc.o CMakeFiles/mmm_proto.dir/track_type.pb.cc.o CMakeFiles/mmm_proto.dir/test.pb.cc.o
+/usr/bin/ranlib libmmm_proto.a

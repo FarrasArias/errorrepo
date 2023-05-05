@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package protoTest;
+
+message Test {
+	optional int32 var_1 = 1;
+	optional int32 var_2 = 2;
+}

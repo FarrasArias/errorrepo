@@ -1,0 +1,4 @@
+1. Is the DRUM_CHANNEL defined and evaluated in midi_io.h the same things as is_drum_track in token_types.h? Are they looking for the same thing?
+2. Change all header files to header/cpp file pairs!
+3. Apparently I have to re-clone pybind in compute Canada from the current version (28-09-22)... why is this? It says python.h is missing
+4. Address auto comment in compute Canada build :).
