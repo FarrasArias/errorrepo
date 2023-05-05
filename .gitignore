@@ -5,7 +5,7 @@
 /libraries/libtorch_cpu
 /libraries/pybind11
 /python_lib/
-/python_scripts/
+
 # Ignore cmakefiles
 /CMakeFiles/
 
